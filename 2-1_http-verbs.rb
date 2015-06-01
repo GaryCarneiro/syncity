@@ -22,6 +22,6 @@ patch '/' do
   "Triggered via PATCH"
 end
 
-option '/' do
+options '/' do
   "Triggered via OPTIONS"
 end
