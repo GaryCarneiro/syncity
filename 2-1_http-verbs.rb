@@ -1,4 +1,6 @@
 #!/usr/bin/env ruby
+# Example to test
+# curl -X POST  'http://localhost:4567/' -d ""
 
 require 'sinatra'
 
